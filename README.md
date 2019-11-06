@@ -1,5 +1,5 @@
 # log-flexvolume
-flexvolume for log aggregator
+flexvolume for log aggregator。挂载指定目录到宿主机，方便收集容器日志
 
 1、 mkdir /usr/libexec/kubernetes/kubelet-plugins/volume/exec/applog.io~log-flexvolume
 
